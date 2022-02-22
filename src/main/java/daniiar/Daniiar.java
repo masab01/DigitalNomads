@@ -1,0 +1,7 @@
+package daniiar;
+
+public class Daniiar {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
